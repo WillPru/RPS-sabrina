@@ -1,4 +1,4 @@
-import { read } from "fs";
+console.log("test")
 
 const readline = require("readline").createInterface({
   input: process.stdin,

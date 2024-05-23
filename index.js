@@ -1,5 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+console.log("test");
 var readline = require("readline").createInterface({
     input: process.stdin,
     output: process.stdout,
